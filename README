@@ -1,3 +1,10 @@
+This is a fork of bozimmerman/Zimodem with the following changes;
+
+* Converted to a PlatformIO project.
+* Added build configuration for esp8266 D1 Mini (see board.h).
+
+----
+
 Zimodem 3.6.4 (C)2016-2021 Bo Zimmerman
 Please read the LICENSE file for license information
 Please read the NOTICE file for credits information
